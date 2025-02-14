@@ -8,10 +8,15 @@ This is a full-stack Paytm-like application built using the MERN stack (MongoDB,
 Features
 
 User authentication (sign up, sign in, logout)
+
 Wallet functionality for users
+
 Send money to friends
+
 Transaction history
+
 Tech Stack
+
 
 
 Setup
