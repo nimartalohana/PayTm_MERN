@@ -15,7 +15,7 @@ Send money to friends
 
 Transaction history
 
-Tech Stack
+
 
 
 
